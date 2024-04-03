@@ -1,0 +1,13 @@
+---
+title: "Homepage"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+What happens in real time?
+
+Does it update.
+
+![Bibi in a box](img/bib-box.jpg)
